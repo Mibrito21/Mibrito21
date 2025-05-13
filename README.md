@@ -7,8 +7,8 @@
 ### Connet with me:
 
 <p>
-  <a> href="https://www.instagram.com/milenabrito69/">
-  <img align= "left" alt="icone do instagram uma camerras dentro de um quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <a href="https://www.instagram.com/milenabrito69/">
+  <img align= "left" alt="icone do instagram uma cameras dentro de um quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
   <a href="https://www.linkedin.com/in/milena-brito-907481364/">
     <img align= "left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -16,7 +16,7 @@
 </p>
 <br />
 <br />
-![Milena stats](https://github-readme-stats.vercel.app/api?username=Mibrito21_icons=true&theme=transparent)
+
 <!--
 **Mibrito21/Mibrito21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
